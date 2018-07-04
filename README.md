@@ -1,1 +1,1 @@
-NPTEL Bussiness Analytics R mini projects/ case study
+NPTEL Data Science for Engg R mini projects/ case study
